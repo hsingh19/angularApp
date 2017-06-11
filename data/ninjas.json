@@ -1,0 +1,21 @@
+[
+  {
+    "name":"yoshu",
+    "belt":"green",
+    "rate": 50,
+    "available": true
+  },
+  {
+    "name":"ryu",
+    "belt":"red",
+    "rate": 30,
+    "available": true
+  },
+  {
+    "name":"chao",
+    "belt":"yellow",
+    "rate": 1000,
+    "available": false
+
+  }
+]
